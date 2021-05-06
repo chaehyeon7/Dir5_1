@@ -21,7 +21,7 @@
     <Button
         android:alyout_width="110dp"
         android:layout_height="100dp"
-        android:gravity="right|bottom"
+        android:gravity="right"
         android:text="@string/btn3"/>
 
 </LinearLayou>
